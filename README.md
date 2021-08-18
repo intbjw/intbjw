@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github.com/intbjw/intbjw/blob/master/hello-world.gif" width="30%">
+  <img src="https://github.com/intbjw/intbjw/blob/main/hello-world.gif" width="30%">
 </p>
 
 [![](https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
