@@ -5,7 +5,7 @@ import re
 import os
 import datetime
 
-wakatime_raw_url = "https://gist.githubusercontent.com/intbjw/b3f5ba2c84e8e524c10ca588825ff915/raw/"
+wakatime_raw_url = "https://gist.githubusercontent.com/intbjw/6d6673c17a8a4402b632e2b67ab68942/raw/"
 
 root = pathlib.Path(__file__).parent.resolve()
 
