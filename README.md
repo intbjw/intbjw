@@ -33,10 +33,10 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   4 hrs 9 mins   ███████▌░░░░░░░░░░░░░  36.2%
-YAML       3 hrs 57 mins  ███████▏░░░░░░░░░░░░░  34.5%
-Python     3 hrs 16 mins  █████▉░░░░░░░░░░░░░░░  28.5%
-Git Config 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+YAML       3 hrs 42 mins  ███████▎░░░░░░░░░░░░░  34.7%
+Markdown   3 hrs 38 mins  ███████▏░░░░░░░░░░░░░  34.0%
+Python     3 hrs 15 mins  ██████▍░░░░░░░░░░░░░░  30.4%
+Git Config 3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Other      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
