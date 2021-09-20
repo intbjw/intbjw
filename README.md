@@ -33,9 +33,10 @@
 <!-- code_time starts -->
 
 ```text
-YAML       3 hrs 30 mins  ██████████▎░░░░░░░░░░  49.2%
-Python     2 hrs 52 mins  ████████▍░░░░░░░░░░░░  40.5%
-Markdown   44 mins        ██▏░░░░░░░░░░░░░░░░░░  10.3%
+YAML       3 hrs 23 mins  ████████▋░░░░░░░░░░░░  41.3%
+Python     2 hrs 52 mins  ███████▎░░░░░░░░░░░░░  35.1%
+Markdown   1 hr 18 mins   ███▎░░░░░░░░░░░░░░░░░  15.9%
+Go         37 mins        █▌░░░░░░░░░░░░░░░░░░░   7.7%
 ```
 
 <!-- code_time ends -->
