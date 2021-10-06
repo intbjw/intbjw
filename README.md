@@ -33,8 +33,8 @@
 <!-- code_time starts -->
 
 ```text
-Go         6 mins         █████████████▉░░░░░░░  66.6%
-Markdown   3 mins         ███████░░░░░░░░░░░░░░  33.4%
+Python     22 mins        ████████████████████▉ 100.0%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
