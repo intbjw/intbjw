@@ -48,6 +48,7 @@ Git Config 0 secs         ░░░░░░░░░░░░░░░░░░
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hacv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=moew&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 
 
