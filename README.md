@@ -14,8 +14,9 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18301%26project%3D%26in%3D0)](https://codetime.dev)
 
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning Python, Penetration test
@@ -28,28 +29,25 @@
 ###  ✨new year
 
 
-#### 🏊‍♂️ <a href="https://gist.github.com/intbjw/b3f5ba2c84e8e524c10ca588825ff915" target="_blank">Weekly Development Breakdown</a>
 
-<!-- code_time starts -->
 
-```text
-Python     2 hrs 24 mins  ██████▊░░░░░░░░░░░░░░  32.6%
-YAML       1 hr 39 mins   ████▋░░░░░░░░░░░░░░░░  22.6%
-Markdown   1 hr 38 mins   ████▋░░░░░░░░░░░░░░░░  22.3%
-Go         58 mins        ██▊░░░░░░░░░░░░░░░░░░  13.3%
-Text       23 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+
+
+#### ⚠警告(Warning)
 ```
 
-<!-- code_time ends -->
+“本账号下所有仓库文件，仅限于在遵守当地法律法规情况下以学习目的使用”
+"All files in the warehouse of this account are limited to use for learning purposes in compliance with local laws and regulations"
+不限于引用，复制等方式获取将视为认同上述条款，否则请立即删除相关文件。
+Not limited to citing, copying and other means of acquisition will be deemed to agree to the above terms, otherwise please delete the relevant files immediately.
+
+```
 
 
-#### 
-
-
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hacv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=moew&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+#### Visitors (Since 2023/08/01)
+<div>
+<img align="left" src="https://count.getloli.com/get/@intbjw?theme=rule34">
+</div>
 
 
 
